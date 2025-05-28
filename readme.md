@@ -2,16 +2,16 @@
 
 A modular, Streamlit-powered dashboard to simulate clone screening workflows for Cell Line Development (CLD). This tool estimates the probability that the final selected clones are within the top X% of performers using Monte Carlo simulations, customizable workflow parameters, and flexible distribution modeling (LogNormal or KDE).
 
+## What is CLD?
+
+Cell Line Development (CLD) is a foundational process in the production of biopharmaceuticals, especially for biologics like monoclonal antibodies, recombinant proteins, and cell-based therapies. It refers to the generation, screening, and optimization of cell lines capable of consistently producing a desired therapeutic product at high yields and with quality suitable for regulatory approval.
 ## 💡 Why Simulate Clone Selection?
 
 Simulations using tools like Monte Carlo can:
 
 -🧠 Model the effects of assay noise and clone variability
-
 -📊 Help design better workflows and thresholds
-
 -🔍 Estimate the probability of successful clone capture (i.e., retaining top X% of performers)
-
 -🚀 Reduce experimental overhead by guiding better decision-making upstream saving money
 
 ## 📊 Features
