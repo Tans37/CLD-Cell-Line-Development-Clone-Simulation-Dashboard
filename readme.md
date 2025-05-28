@@ -35,6 +35,21 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🔬 How the Simulation Works
+
+1. The uploaded assay data is modeled using either:
+   - **LogNormal Distribution** (Parametric)
+   - **Kernel Density Estimation (KDE)** (Non-parametric)
+
+2. Monte Carlo simulations are performed by sampling synthetic clone profiles and tracking their performance across the CLD workflow.
+
+3. The tool computes the probability that the final selected clones fall within the top X% performers.
+
+4. Users can visualize:
+   - Assay distributions (real vs synthetic)
+   - Clone success histograms
+   - Probability vs correlation curves
+
 ## 🧠 Why KDE?
 
 - ✅ **Avoids Overfitting** – KDE is smoother and generalizes better  
