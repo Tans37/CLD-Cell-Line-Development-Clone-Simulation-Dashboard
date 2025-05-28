@@ -2,6 +2,8 @@
 
 A modular, Streamlit-powered dashboard to simulate clone screening workflows for Cell Line Development (CLD). This tool estimates the probability that the final selected clones are within the top X% of performers using Monte Carlo simulations, customizable workflow parameters, and flexible distribution modeling (LogNormal or KDE).
 
+![image](https://github.com/user-attachments/assets/b0858867-74cb-48e2-954f-6fe7b9b87be4)
+
 ## 📊 Features
 
 - 📈 Visualize assay distributions for all criteria  
