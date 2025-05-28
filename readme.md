@@ -16,7 +16,7 @@ A modular, Streamlit-powered dashboard to simulate clone screening workflows for
 
 ### Clone the repo:
 ```
-git clone https://github.com/Tans37/CLD-Cell-Line-Development-Clone-Simulation-Dashboard.git
+git clone https://github.com/Tans37/CLD-Clone-Simulation-Dashboard.git
 ```
 
 ### (Optional) Set up a virtual environment:
