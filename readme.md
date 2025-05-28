@@ -50,13 +50,13 @@ streamlit run app.py
    - Clone success histograms
    - Probability vs correlation curves
 
-## 🧠 Why KDE?
+## 🧰 Tech Stack
 
-- ✅ **Avoids Overfitting** – KDE is smoother and generalizes better  
-- 🎯 **No Component Guesswork** – No need to select number of clusters  
-- 📐 **Captures Complex Distributions** – Better fit for skewed or multimodal data  
-- 🚀 **Faster & Simpler** – Non-iterative and robust for small samples  
-- 🔁 **Better Simulation Behavior** – KDE yields more realistic Monte Carlo results  
+- **Python**, **NumPy**, **Pandas**
+- **SciPy**, **scikit-learn** for modeling
+- **Streamlit** for interactive dashboard
+- **Matplotlib / Seaborn** for plotting
+
 
 ## 🧬 Full Project Explanation
 
@@ -102,7 +102,15 @@ At each step:
 - Synthetic vs real distribution overlay  
 - Success probability vs correlation plot  
 - Final clone success histograms  
-- State caching using `st.session_state` for performance  
+- State caching using `st.session_state` for performance
+- 
+## 🧠 Why KDE?
+
+- ✅ **Avoids Overfitting** – KDE is smoother and generalizes better  
+- 🎯 **No Component Guesswork** – No need to select number of clusters  
+- 📐 **Captures Complex Distributions** – Better fit for skewed or multimodal data  
+- 🚀 **Faster & Simpler** – Non-iterative and robust for small samples  
+- 🔁 **Better Simulation Behavior** – KDE yields more realistic Monte Carlo results  
 
 ## 🗂️ File Structure
 
