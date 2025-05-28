@@ -9,10 +9,10 @@ Cell Line Development (CLD) is a foundational process in the production of bioph
 
 Simulations using tools like Monte Carlo can:
 
--🧠 Model the effects of assay noise and clone variability
--📊 Help design better workflows and thresholds
--🔍 Estimate the probability of successful clone capture (i.e., retaining top X% of performers)
--🚀 Reduce experimental overhead by guiding better decision-making upstream saving money
+- 🧠 Model the effects of assay noise and clone variability
+- 📊 Help design better workflows and thresholds
+- 🔍 Estimate the probability of successful clone capture (i.e., retaining top X% of performers)
+- 🚀 Reduce experimental overhead by guiding better decision-making upstream saving money
 
 ## 📊 Features
 
