@@ -16,7 +16,6 @@ Simulations using tools like Monte Carlo can:
 
 ## 📊 Features
 
-- 📁 Upload Excel files with assay and criteria columns  
 - 📈 Visualize assay distributions for all criteria  
 - ⚙️ Choose between LogNormal (parametric) and KDE (non-parametric) modeling  
 - 🔁 Run Monte Carlo simulations across correlation values  
